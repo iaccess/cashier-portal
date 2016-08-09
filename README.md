@@ -1,4 +1,4 @@
-iAccess - Student Portal
+iAccess - Cashier Portal
 =========================
 
 TO DO:
