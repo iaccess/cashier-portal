@@ -1,5 +1,5 @@
 {
-    "name": "iaccess/student-portal",    
+    "name": "iaccess/cashier-portal",    
     "type": "project",    
     "license": "MIT",
     "authors": [
@@ -8,7 +8,7 @@
             "email": "gamba@gabbydgab.com",
             "homepage": "http://www.gabbydgab.com/"
         }
-    ],    
+    ],
     "require": {
         "php": "^7.0",
         "roave/security-advisories": "dev-master",
